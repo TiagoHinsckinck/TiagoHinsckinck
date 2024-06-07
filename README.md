@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @TiagoHinsckinck
-- 👀 I’m interested in schedule
+- 
 - 🌱 I’m currently learning Javascript, Html, Css
 - :kissing: My instagram is _tiago.x4
 
